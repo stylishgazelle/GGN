@@ -1,0 +1,5 @@
+#searchbars{
+	opacity:1;
+	-moz-opacity:1;
+	filter:alpha(opacity=100);
+}

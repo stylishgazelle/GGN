@@ -1,0 +1,41 @@
+/*
+
++++++++++++++++++++++++++++++++++++++++++++++
+name:     Hanami for GGn
+version:  1
++++++++++++++++++++++++++++++++++++++++++++++
+"author":   SanicEggnog
++++++++++++++++++++++++++++++++++++++++++++++
+
+some icons by devertex
+
+inspired by Stilig/Stilfuld/Svalish CSS for 4chan, original concept by Myson and now maintained by RiDeag
+inspired by Flèche for Gnome, by hdni
+
+built upon the masterpiece, Bleeke for WCD by rusak
+
+please do not remove this notice
+
+*/
+
+@import url(frame.css);
+@import url(formatter.css);
+@import url(ggn.css);
+
+body {
+	background-image:url("images/sakura.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 100% 90%;
+}
+
+#footer {
+	color: white!important;
+	text-shadow: 1px 1px 0px #000000;
+}
+
+/*
+
+that's all :)
+
+*/
